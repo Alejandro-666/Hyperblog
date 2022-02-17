@@ -5,3 +5,5 @@ Alejandro tiene casi 30 años y nació en Colombia, viviendo en todo el mundo.
 Hoy hablaremos de su historia.
 
 Está estudiando fuertemente Data Science.
+
+Hoy está buscando trabajo como Data Scientist Jr.
